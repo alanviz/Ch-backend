@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Escuadra",
+    "price": 123.45,
+    "thumbnail": "https://cdn1.iconfinder.com/data/icons/web-design-29/60/ruler__illustration__triangle__education-512.png",
+    "id": 1
+  },
+  {
+    "title": "Calculadora",
+    "price": 234.56,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/flat-set-1/64/flat_set_1-14-256.png",
+    "id": 2
+  },
+  {
+    "title": "Globo Terráqueo",
+    "price": 354.67,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-1-1/256/Geography-256.png",
+    "id": 3
+  }
+]
